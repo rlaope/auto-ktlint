@@ -7,7 +7,7 @@ Simple installer for downloading and setting up [ktlint](https://github.com/pint
 Run this command in your terminal:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/rlaope/auto-ktlint/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/rlaope/ktal/main/install.sh | bash
 ```
 
 This will:
