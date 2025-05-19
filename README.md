@@ -1,4 +1,4 @@
-# auto-ktlint
+# ktal | auto-ktlint
 
 Simple installer for downloading and setting up [ktlint](https://github.com/pinterest/ktlint) `v0.45.2` with a custom alias.
 
